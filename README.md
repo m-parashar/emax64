@@ -8,7 +8,7 @@ Compiled with support for: jpg/jpeg, gif, png, tiff, xpm and more.
 
 Get binaries here: https://github.com/m-parashar/emax64/releases
 
-##emax64-20171129
+emax64-20171129
 ---------------
 
 * 64-bit Windows build of Emacs 26.0.90. DLLs included.
@@ -18,10 +18,10 @@ Get binaries here: https://github.com/m-parashar/emax64/releases
 * Features: XPM JPEG TIFF GIF PNG RSVG IMAGEMAGICK SOUND DBUS NOTIFY ACL GNUTLS LIBXML2 ZLIB TOOLKIT_SCROLL_BARS MODULES LCMS2
 * Optimized clean build. Options: "--without-compress-install --with-dbus --with-modules 'CFLAGS= -O3 -pipe -s -g0 -march=native' 'LDFLAGS= -s '"
 
-##**Installation:**
+**Installation:**
 
 * Unpack the 7z binary archive, preferably in C:\ root directory.
 * Run emacs\bin\addpm.exe to add registry entries.
 * Double-click the runemacs.exe file in emacs\bin and hack away!
 
-##![emax64 on Windows 10](https://i.imgur.com/ZAKxAF7.png)
+![emax64 on Windows 10](https://i.imgur.com/ZAKxAF7.png)
