@@ -24,4 +24,4 @@ Installation:
 * Run emacs\bin\addpm.exe to add registry entries.
 * Double-click the runemacs.exe file in emacs\bin and hack away!
 
-[emax64 on Windows 10](https://i.imgur.com/ZAKxAF7.png)
+![emax64 on Windows 10](https://i.imgur.com/ZAKxAF7.png)
