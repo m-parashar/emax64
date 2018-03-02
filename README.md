@@ -14,12 +14,13 @@ emax64-20180302
 * Patched with ImageMagick 7 support. Binaries and libs included.
 * PDF-TOOLS (epdfinfo.exe) included.
 * Features[1]: "XPM JPEG TIFF GIF PNG RSVG IMAGEMAGICK SOUND NOTIFY ACL GNUTLS LIBXML2 ZLIB TOOLKIT_SCROLL_BARS MODULES THREADS LCMS2"
-* Optimized clean build. Options[2]: "--without-compress-install --without-dbus --with-modules 'CFLAGS= -O2 -pipe -s -g0' 'LDFLAGS= -s '"
+* Optimized clean build. Options[2]: "--without-compress-install --without-dbus --with-modules 'CFLAGS= -O2 -pipe -s -g0' 'LDFLAGS= -s '"[3]
 * Built and tested on a clean Windows 10 system.
 * addpm modified to not create/update any registry HOME entries. It only creates shortcuts as it should.
 
-[1] C-h v system-configuration-features
-[2] C-h v system-configuration-options
+* [1] C-h v system-configuration-features
+* [2] C-h v system-configuration-options
+* [3] DEBUG build options: "--without-compress-install --without-dbus --with-modules 'CFLAGS= -O2 -pipe -static -g3'"
 
 
 **Installation:**
