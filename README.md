@@ -28,4 +28,10 @@ emax64-20180302
 * Unpack the 7z binary archive, preferably in C:\ root directory.
 * Double-click the addpm.exe file in emacs\bin to create shortcuts.
 
+**OPTIONAL:**
+
+* Download and unpack emax.7z into your HOME directory. Usually C:\Users\<username>\AppData\Roaming
+* emax.7z is an environment to make your Emacs experience a little more tolerable on Windows.
+* It includes a very basic dotfile along with BusyBox 64-bit, some MinGW packages, SSH, W3M, and some other GNU tools to help you start right away.
+
 ![emax64 on Windows 10](https://i.imgur.com/ZAKxAF7.png)
