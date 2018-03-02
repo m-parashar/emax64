@@ -30,7 +30,7 @@ emax64-20180302
 
 **OPTIONAL:**
 
-* Download and unpack emax.7z into your HOME directory. Usually C:\Users\<username>\AppData\Roaming
+* Download and unpack emax.7z into your HOME directory. Usually C:\Users\\<username>\AppData\Roaming
 * emax.7z is an environment to make your Emacs experience a little more tolerable on Windows.
 * It includes a very basic dotfile along with BusyBox 64-bit, some MinGW packages, SSH, W3M, and some other GNU tools to help you start right away.
 
