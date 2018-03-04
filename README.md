@@ -33,4 +33,4 @@ emax64-20180303
 * emax.7z is an environment to make your Emacs experience a little more tolerable on Windows.
 * It includes a barebones dotfile along with BusyBox 64-bit, some MinGW packages, SSH, W3M, Aspell, and other GNU tools to help you start right away.
 
-![emax64 on Windows 10](https://i.imgur.com/ZAKxAF7.png)
+![emax64 on Windows 10](https://i.imgur.com/4E4OYqo.png)
