@@ -7,7 +7,7 @@ ImageMagick 7 support compiled, binaries, and libraries included.
 
 Get binaries here: https://github.com/m-parashar/emax64/releases
 
-emax64-20180406
+emax64-20180513
 ---------------
 
 * 64-bit Windows build of Emacs 26.1
