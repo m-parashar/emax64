@@ -32,5 +32,11 @@ Recommended:
 * emax.7z is an environment to make your Emacs experience a little more tolerable on Windows.
 * It includes a barebones dotfile along with BusyBox 64-bit, some MinGW packages, SSH, W3M, Aspell, and other GNU tools to help you start right away.
 
+Sources:
+* GNU Emacs sources, patched as described above, are available as a separate src archive.
+* All the other binaries included in the emax64 and emax archives are unmodified and distributed as is.
+* Their sources can be downloaded from MSYS2/MinGW servers: http://repo.msys2.org/mingw/sources/
+* BusyBox (Windows) sources can be obtained from here: https://frippery.org/files/busybox/
+
 
 ![emax64 on Windows 10](https://i.imgur.com/4E4OYqo.png)
