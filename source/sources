@@ -1,0 +1,5 @@
+Sources:
+* GNU Emacs sources, patched as described above, are available as a separate src archive.
+* All the other binaries included in the emax64 and emax archives are unmodified and distributed as is.
+* Their sources can be downloaded from MSYS2/MinGW servers: http://repo.msys2.org/mingw/sources/
+* BusyBox (Windows) sources can be obtained from here: https://frippery.org/files/busybox/
