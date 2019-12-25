@@ -7,14 +7,14 @@ ImageMagick 7 support compiled, binaries, and libraries included.
 
 Get binaries here: https://github.com/m-parashar/emax64/releases
 
-emax64-26.2-20190417
+emax64-26.3-20191225
 --------------------
 
-* 64-bit Windows build of Emacs 26.2 final release.
+* 64-bit Windows build of Emacs 26.3 final release.
 * Patched with ImageMagick 7 support. Binaries and libs included.
-* PDF-TOOLS (epdfinfo.exe) included. [emax.7z package]
+* PDF-TOOLS (epdfinfo.exe) included. [emax/7z package]
 * Features[1]: "XPM JPEG TIFF GIF PNG RSVG IMAGEMAGICK SOUND NOTIFY ACL GNUTLS LIBXML2 ZLIB TOOLKIT_SCROLL_BARS MODULES THREADS LCMS2"
-* Optimized clean build. Options[2]: "--without-compress-install --without-dbus --with-modules 'CFLAGS= -O2 -g3'"
+* Optimized clean build. Options[2]: "--without-compress-install --without-dbus --with-modules 'CFLAGS=-O2 -g3'"
 * Built and tested on a clean Windows 10 system.
 * addpm modified to not create/update any registry HOME entries. It only creates shortcuts as it should.
 
