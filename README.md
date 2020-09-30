@@ -7,13 +7,13 @@ ImageMagick 7 support compiled, binaries, and libraries included.
 
 Get binaries here: https://github.com/m-parashar/emax64/releases
 
-emax64-26.3-20191225
+emax64-27.1-stock-noimagemagick-20200930
 --------------------
 
 * 64-bit Windows build of Emacs 26.3 final release.
-* Patched with ImageMagick 7 support. Binaries and libs included.
+* Clean stock build, no patches, no imagemagick support baked in; batteries included.
 * PDF-TOOLS (epdfinfo.exe) included. [emax/7z package]
-* Features[1]: "XPM JPEG TIFF GIF PNG RSVG IMAGEMAGICK SOUND NOTIFY ACL GNUTLS LIBXML2 ZLIB TOOLKIT_SCROLL_BARS MODULES THREADS LCMS2"
+* Features[1]: "XPM JPEG TIFF GIF PNG RSVG SOUND NOTIFY W32NOTIFY ACL GNUTLS LIBXML2 HARFBUZZ ZLIB TOOLKIT_SCROLL_BARS MODULES THREADS JSON PDUMPER LCMS2 GMP"
 * Optimized clean build. Options[2]: "--without-compress-install --without-dbus --with-modules 'CFLAGS=-O2 -g3'"
 * Built and tested on a clean Windows 10 system.
 * addpm modified to not create/update any registry HOME entries. It only creates shortcuts as it should.
@@ -27,9 +27,9 @@ Installation:
 
 Recommended:
 * Install MSYS2 [64-bit: http://repo.msys2.org/distrib/msys2-x86_64-latest.exe]
-* Download and unpack emax.7z into your HOME directory, usually C:\Users\<username>\AppData\Roaming
+* Download and unpack emax.7z into your %APPDATA% directory, usually C:\Users\<username>\AppData\Roaming
 * emax.7z is an environment to make your Emacs experience a little more tolerable on Windows.
-* It includes a barebones dotfile along with BusyBox 64-bit, some MinGW packages, SSH, W3M, Aspell, and other GNU tools to help you start right away.
+* It includes a barebones dotfile along with BusyBox 64-bit, SSH, W3M etc to help you start right away.
 
 Sources:
 * GNU Emacs sources, patched as described above, are available as a separate src archive.
